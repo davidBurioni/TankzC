@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<audiosheets>
+
+	<audiosheets>
+	  <name>shot</name>
+	  <filename>Assets/Music/shoot.wav</filename>
+	  </audiosheets>
+	
+	<audiosheets>
+	  <name>wood</name>
+	  <filename>Assets/Music/destruction-wooden-a.wav</filename>
+  </audiosheets>
+
+  <audiosheets>
+    <name>intro</name>
+    <filename>Assets/Music/intro.wav</filename>
+  </audiosheets>
+
+
+
+</audiosheets>

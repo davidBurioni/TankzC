@@ -1,0 +1,160 @@
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\obj\Debug\TankzC.csprojResolveAssemblyReference.cache
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\Assets\bg_cartoon.jpg
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\Assets\loadingBar_bar.png
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\Assets\loadingBar_frame.png
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\Assets\tanks_tankGreen_body1.png
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\Assets\tanks_tankTracks1.png
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\Assets\tanks_turret2.png
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\Assets\tank_bullet1.png
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\Assets\tank_bullet3.png
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\TankzC.exe.config
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\TankzC.exe
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\TankzC.pdb
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\aiv-fast2d.dll
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\OpenTK.dll
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\bin\Debug\OpenTK.xml
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\obj\Debug\TankzC.exe
+c:\users\chiro\onedrive\documenti\visual studio 2017\Projects\TankzC\TankzC\obj\Debug\TankzC.pdb
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\bg_cartoon.jpg
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\tanks_tankGreen_body1.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\tanks_tankTracks1.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\tanks_turret2.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\tank_bullet1.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\tank_bullet3.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\TankzC.exe.config
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\TankzC.exe
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\TankzC.pdb
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\OpenTK.dll
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\OpenTK.xml
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\obj\Debug\TankzC.csprojResolveAssemblyReference.cache
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\obj\Debug\TankzC.exe
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\obj\Debug\TankzC.pdb
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\crate.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\obj\Debug\TankzC.csproj.CoreCompileInputs.cache
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\obj\Debug\TankzC.csproj.CopyComplete
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\cyberpunk-street1.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\cyberpunk-street2.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\cyberpunk-street3.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\textSheet.png
+C:\Users\chiro\OneDrive\Documenti\Visual Studio 2017\Projects\TankzTilesC\TankzC\bin\Debug\Assets\comics.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\bg_cartoon.jpg
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\comics.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\cyberpunk-street1.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\cyberpunk-street2.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\cyberpunk-street3.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\tanks_tankGreen_body1.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\tanks_tankTracks1.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\tanks_turret2.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\tank_bullet1.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\tank_bullet3.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\textSheet.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\TankzC.exe.config
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\TankzC.exe
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\TankzC.pdb
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\aiv-fast2d.dll
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\OpenTK.dll
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\OpenTK.xml
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\obj\Debug\TankzC.csprojResolveAssemblyReference.cache
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\obj\Debug\TankzC.csproj.CoreCompileInputs.cache
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\obj\Debug\TankzC.exe
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\obj\Debug\TankzC.pdb
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\pig.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\minipig.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Ico\bullet_ico.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Ico\missile_ico.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Ico\weapons_GUI_frame.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Ico\weapon_GUI_selection.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\tank_enemy.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\tank_player.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Ico\pigIco.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Asset.xml
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\cassa.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\bg_cartoon2.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Music\0001.wav
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\openal32.dll
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\aiv-audio.dll
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Concentus.dll
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Concentus.Oggfile.dll
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\NVorbis.dll
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Concentus.xml
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Concentus.Oggfile.xml
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\NVorbis.xml
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Music\intro.wav
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Map\env_lv.tsx
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Map\map_lv1.tmx
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Map\crate.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Map\earth.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Map\earthGrass.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Map\stone.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\bg_cartoon3.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Music\shoot.wav
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Music\destruction-wooden-a.wav
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\missile_ico.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Map\map_lv2.tmx
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\gameOverBg.png
+C:\Users\il-de\Desktop\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Audio.xml
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Asset.xml
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Audio.xml
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\bg_cartoon2.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\bg_cartoon3.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\cassa.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\gameOverBg.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Ico\bullet_ico.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Ico\missile_ico.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Ico\pigIco.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Ico\weapons_GUI_frame.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Ico\weapon_GUI_selection.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Map\crate.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Map\earth.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Map\earthGrass.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Map\env_lv.tsx
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Map\stone.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\missile_ico.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Music\0001.wav
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Music\intro.wav
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Music\shoot.wav
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Music\destruction-wooden-a.wav
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\pig.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\bg_cartoon.jpg
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\comics.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\cyberpunk-street1.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\cyberpunk-street2.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\cyberpunk-street3.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\loadingBar_bar.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\loadingBar_frame.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\minipig.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\tanks_tankGreen_body1.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\tanks_tankTracks1.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\tanks_turret2.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\tank_bullet1.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\tank_bullet3.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\tank_enemy.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\tank_player.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\textSheet.png
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\openal32.dll
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Map\map_lv1.tmx
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\Map\map_lv2.tmx
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\TankzC.exe.config
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\TankzC.exe
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\TankzC.pdb
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\aiv-audio.dll
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\aiv-fast2d.dll
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Concentus.dll
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Concentus.Oggfile.dll
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\NVorbis.dll
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\OpenTK.dll
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Concentus.xml
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Concentus.Oggfile.xml
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\NVorbis.xml
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\OpenTK.xml
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\obj\Debug\TankzC.csprojAssemblyReference.cache
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\obj\Debug\TankzC.csproj.CoreCompileInputs.cache
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\obj\Debug\TankzC.csproj.CopyComplete
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\obj\Debug\TankzC.exe
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\obj\Debug\TankzC.pdb
+D:\aiv\progetti\TankzFont\TankzTilesC\TankzC\bin\Debug\Assets\particlefx_07.png
